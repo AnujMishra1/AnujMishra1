@@ -2,6 +2,8 @@
 ## About Me<br><br>👋 Hi, I'm Anuj Mishra, a dedicated software developer with a strong foundation in Data Structures and Algorithms (DSA) using C++. I recently secured a Specialist Programmer role at Infosys, reflecting my expertise and problem-solving skills. I achieved this by solving over 700 challenges on LeetCode, demonstrating my commitment to technical excellence.<br><br>Currently, I am expanding my skill set into DevSecOps, focusing on integrating security practices into the software development lifecycle to enhance both security and operational efficiency. I am also preparing for certification in this field to validate and deepen my knowledge.<br><br> Expertise<br><br>- **Data Structures and Algorithms (DSA) in C++** 💻<br>- **Web Development Security (DevSecOps)** 🔒<br>  - Secure Coding Practices<br>  - Threat Modeling<br>  - Security Testing and Vulnerability Management<br>  - CI/CD Security Integration<br>  - Incident Response and Management<br>- **Python Programming** 🐍<br><br> Collaboration<br><br>I'm eager to collaborate on open-source projects and engage in discussions about secure software practices and advanced algorithms. If you have a project or idea, feel free to reach out!<br><br> Achievements<br><br>- **Specialist Programmer Role** at Infosys 🎉<br>- **LeetCode:** Solved 700+ problems 🏆<br>- **Current Focus:** Learning and applying DevSecOps principles, preparing for certification 📚<br><br> Fun Fact<br><br>I have a passion for solving complex problems on LeetCode! 😄
 
 
+[![](https://visitcount.itsvg.in/api?id=imAnujMishra&icon=2&color=13)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anujmishra2003) 
 
@@ -14,8 +16,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=imAnujMishra&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=imAnujMishra&icon=2&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
