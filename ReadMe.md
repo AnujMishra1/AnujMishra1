@@ -1,5 +1,40 @@
-# 💫 About Me:
-## About Me<br><br>👋 Hi, I'm Anuj Mishra, a dedicated software developer with a strong foundation in Data Structures and Algorithms (DSA) using C++. I recently secured a Specialist Programmer role at Infosys, reflecting my expertise and problem-solving skills. I achieved this by solving over 700 challenges on LeetCode, demonstrating my commitment to technical excellence.<br><br>Currently, I am expanding my skill set into DevSecOps, focusing on integrating security practices into the software development lifecycle to enhance both security and operational efficiency. I am also preparing for certification in this field to validate and deepen my knowledge.<br><br> Expertise<br><br>- **Data Structures and Algorithms (DSA) in C++** 💻<br>- **Web Development Security (DevSecOps)** 🔒<br>  - Secure Coding Practices<br>  - Threat Modeling<br>  - Security Testing and Vulnerability Management<br>  - CI/CD Security Integration<br>  - Incident Response and Management<br>- **Python Programming** 🐍<br><br> Collaboration<br><br>I'm eager to collaborate on open-source projects and engage in discussions about secure software practices and advanced algorithms. If you have a project or idea, feel free to reach out!<br><br> Achievements<br><br>- **Specialist Programmer Role** at Infosys 🎉<br>- **LeetCode:** Solved 700+ problems 🏆<br>- **Current Focus:** Learning and applying DevSecOps principles, preparing for certification 📚<br><br> Fun Fact<br><br>I have a passion for solving complex problems on LeetCode! 😄
+## About Me
+[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/LeetCode_logo_black.png/90px-LeetCode_logo_black.png)](https://leetcode.com/u/AlgorithmicSage/)
+
+👋 Hello, I'm Anuj Mishra, a passionate software developer with a robust foundation in Data Structures and Algorithms (DSA) using C++. Recently, I secured a Specialist Programmer role at Infosys, showcasing my expertise and problem-solving capabilities. This achievement is a testament to my dedication, having solved over 700 challenges on LeetCode, which underscores my commitment to technical excellence.
+
+🚀 Currently, I am broadening my skill set into DevSecOps, focusing on integrating security practices into the software development lifecycle to enhance both security and operational efficiency. I am actively preparing for certification in this domain to validate and deepen my knowledge.
+
+🔒 With a growing interest in secure software development, I am committed to understanding and implementing best practices in DevSecOps. My goal is to bridge the gap between development and operations by embedding security at every stage of the software development process. This includes automating security measures, continuous monitoring, and fostering a culture of security awareness within development teams.
+
+### Expertise
+
+- **Data Structures and Algorithms (DSA) in C++** 💻
+- **Web Development Security (DevSecOps)** 🔒
+  - Secure Coding Practices
+  - Threat Modeling
+  - Security Testing and Vulnerability Management
+  - CI/CD Security Integration
+  - Infrastructure as Code (IaC) Security
+  - Container Security (Docker, Kubernetes)
+  - Continuous Monitoring and Logging
+  - Compliance and Governance
+  - Incident Response and Management
+- **Python Programming** 🐍
+
+### Collaboration
+
+🤝 I'm eager to collaborate on open-source projects and engage in discussions about secure software practices and advanced algorithms. If you have a project or idea, feel free to reach out!
+
+### Achievements
+
+🏆 **Specialist Programmer Role** at Infosys  
+🔢 **LeetCode:** Solved 700+ problems  
+📚 **Current Focus:** Learning and applying DevSecOps principles, preparing for certification
+
+### Fun Fact
+
+✨ I have a passion for solving complex problems on LeetCode!
 
 
 [![](https://visitcount.itsvg.in/api?id=imAnujMishra&icon=2&color=13)](https://visitcount.itsvg.in)
